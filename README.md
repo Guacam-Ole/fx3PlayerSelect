@@ -21,7 +21,7 @@ WorkingPath=C:\pinball\FxPlayerCount
 Executable=PlayerSelect.exe
 ```
 
-Remember the workingPath and Executable before and do **NOT** change any other setting. THis tool WILL work in the Steam-folder btw but I am unsure if that would survive a steam-update, so bette be safe than sorry.
+Remember the workingPath and Executable before and do **NOT** change any other setting. This tool WILL work in the Steam-folder btw but I am unsure if that would survive a steam-update, so better be safe than sorry.
 
 ### PlayerSelect-Config
 Currently you have a lot of options in the PlayerSelect.exe.config. We will go through them
