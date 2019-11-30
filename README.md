@@ -29,8 +29,8 @@ Currently you have a lot of options in the PlayerSelect.exe.config. We will go t
 (Hint: You can test all the settings, espacially the window position directly by starting the application. The only difference is that when selecting a player Steam launches instead of Pinball FX.)
 
 #### Steam location
-First of all you should change the value in `Launch' and change it to your Steam-Location
-<add key="Launch" value="C:\pinball\steam"/>
+First of all you should change the value in `Launch` and change it to your Steam-Location
+```<add key="Launch" value="C:\pinball\steam"/>```
 
 #### Screenlayout
 Now everything should already work. But most likely you want do make changes so it fits your screen layout.
