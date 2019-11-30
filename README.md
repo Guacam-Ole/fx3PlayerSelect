@@ -30,7 +30,9 @@ Currently you have a lot of options in the PlayerSelect.exe.config. We will go t
 
 #### Steam location
 First of all you should change the value in `Launch` and change it to your Steam-Location
-```<add key="Launch" value="C:\pinball\steam"/>```
+```
+<add key="Launch" value="C:\pinball\steam"/>
+```
 
 #### Screenlayout
 Now everything should already work. But most likely you want do make changes so it fits your screen layout.
