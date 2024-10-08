@@ -1,5 +1,8 @@
 # FX 3 PlayerSelect
 
+## Obsolete
+This Repo is outdated. Use https://github.com/Guacam-Ole/PinballPlayerSelect instead if you want to have a DMD look and feel
+
 ## What this does
 This is a simple little "Mid.Launcher" - Application that allows you to select how many players you want to play on FX3 Pinball tables if you run in Cabinet mode without having to go through the options. 
 (1 Player starts the "normal" mode, 2-4 the according "Hot Seat" - Modes)
