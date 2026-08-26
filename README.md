@@ -1,1 +1,1 @@
-Moved to https://codeberg.org/Guacamole/fx3PlayerSelect
+This Repo is archived and moved to [iGITt.oles.cloud](https://igitt.oles.cloud/GuacamOle/fx3PlayerSelect)
